@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # указываем токен бота
-bot = telebot.TeleBot('8044498486:AAFx-u1Aov-9l4fnt73xo7GkDLN0oe0kWvg')
+bot = telebot.TeleBot('Уникальный идентификатор')
 
 
 # события по кнопке старт
